@@ -1,10 +1,10 @@
-import './App.css';
+import React from 'react'
 
 function App() {
   return (
-    <div className="App">
-    <h1>New repo</h1>
-    </div>
+    <>
+    <h1>Welcome to Proshop</h1>
+    </>
   );
 }
 
